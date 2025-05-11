@@ -1,4 +1,4 @@
-# تابع برای ایجاد یک کروموزوم تصادفی
+ی
     def random_chromosome(self):
         return random.sample(range(self.n), self.n)  
     def selection(self):
